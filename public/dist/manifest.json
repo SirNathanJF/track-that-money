@@ -1,12 +1,12 @@
 {
   "icons": [
     {
-      "src": "icon_512x512.png",
+      "src": "auto/icon_512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "icon_192x192.png",
+      "src": "auto/icon_192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     }
@@ -16,7 +16,7 @@
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "An application that allows you to keep track of your budget both on and offline",
+  "description": "An application that allows you to keep track of your budget while on or offline",
   "background_color": "#01579b",
   "theme_color": "#ffffff"
 }
